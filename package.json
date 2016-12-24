@@ -1,0 +1,15 @@
+{
+  "name": "docker-nas",
+  "dependencies": {
+    "bunyan": "^1.8.5",
+    "docker-hub-api": "^0.5.1",
+    "docker-registry-client": "^3.2.6",
+    "dockerode": "^2.3.1",
+    "lodash": "^4.17.2",
+    "restler": "^3.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.53",
+    "typescript": "^2.1.4"
+  }
+}
